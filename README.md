@@ -22,7 +22,6 @@ Construo aplicações web e automações com **JavaScript/TypeScript** e **Pytho
 
 - 🎯 Foco atual: APIs em Node.js, front-end em React e entrega contínua (CI/CD) com Docker
 - 🤖 Agentes de IA e integração de LLMs (Gemini) para automatizar processos
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Unilasalle
 
 ---
 
@@ -58,6 +57,19 @@ Automação que lê a tabela de vendas, confere a meta e avisa por SMS.
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>🎓 Formação e certificações</b></summary>
+<br />
+
+- Análise e Desenvolvimento de Sistemas, Unilasalle (em andamento, desde 2023)
+- Programador Web (FIC), IFRS (2026)
+- Introduction to Generative AI, AWS Educate
+- NLW IA, Rocketseat
+- Extensão em Fundamentos de Programação, PUCRS
+- Cisco Networking Basics · Fortinet FCF Threat Landscape · Copa AIOps
+
+</details>
 
 ---
 
