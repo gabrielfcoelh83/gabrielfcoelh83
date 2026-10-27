@@ -1,56 +1,78 @@
-# Olá, eu sou o Gabriel Coelho! 👋
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielfcoelh83&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfcoelh83&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Gabriel%20Coelho&fontSize=44&fontColor=ffffff" alt="Gabriel Coelho" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&width=560&center=true&vCenter=true&lines=Backend+e+Full+Stack+Developer;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Python;APIs%2C+automa%C3%A7%C3%A3o+e+deploy+em+produ%C3%A7%C3%A3o" alt="Backend e Full Stack Developer" />
+
+<br />
+
+Estudante de Análise e Desenvolvimento de Sistemas (Unilasalle)
+
+<a href="https://www.linkedin.com/in/gabriel-coelho-17a4a7233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gabrielfcoelh83@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mlkoab.tech" target="_blank"><img src="https://img.shields.io/badge/mlkoab.tech-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mlkoab.tech" /></a>
+
 </div>
 
 ---
 
-### 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou um **Desenvolvedor Web** apaixonado por tecnologia e automação. Atualmente, foco em criar soluções eficientes utilizando **Python** e **TypeScript**. Adoro transformar dados em informações úteis e automatizar processos do dia a dia.
+Construo aplicações web e automações com **JavaScript/TypeScript** e **Python**. Hoje atuo em implantação e suporte técnico e estou direcionando minha carreira para **desenvolvimento backend e full stack**.
 
-- 🎓 Estudante de tecnologia.
-- 💻 Atualmente trabalhando em projetos de automação e desenvolvimento web.
-- 🎯 Objetivo: Evoluir constantemente como desenvolvedor Full Stack.
-
----
-
-### 🛠️ Minha Pilha de Tecnologias
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+- 🎯 Foco atual: APIs em Node.js, front-end em React e deploy em produção
+- 🤖 Uso IA (Claude) no fluxo de desenvolvimento e na automação de processos
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Unilasalle
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🚀 Projetos em destaque
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielfcoelh83&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/gabrielfcoelh83/mlkoab">mlkoab</a></h3>
+App de estudos para o Exame da OAB, com login Google e integração com Google Agenda e Gemini. Monorepo com front (<code>apps/web</code>) e API (<code>apps/api</code>).
+<br /><br />
+<code>JavaScript</code> <code>Node.js</code> <code>Google APIs</code>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/gabrielfcoelh83/medcontrol">MedControl</a></h3>
+Controle de medicamentos para cuidadores domésticos: pacientes, checklist diário de doses, estoque com alertas e histórico de aderência (MVP).
+<br /><br />
+<code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>React</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/gabrielfcoelh83/LinuxLib">LinuxLib</a></h3>
+Biblioteca web de referência de comandos Linux, com busca em tempo real, filtro por nível e cópia com um clique.
+<br /><br />
+<code>TypeScript</code> <code>Tailwind CSS</code>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/gabrielfcoelh83/AnaliseDeBonusDeViagem">Análise de Bônus de Viagem</a></h3>
+Automação que lê a tabela de vendas, confere a meta e avisa por SMS.
+<br /><br />
+<code>Python</code>
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Entre em contato comigo!
+## 🛠️ Stack
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-coelho-17a4a7233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="48" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" />
+</p>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielfcoelh83&color=blue&style=flat-square" alt="Views" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" width="100%" />
