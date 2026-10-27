@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Gabriel%20Coelho&fontSize=44&fontColor=ffffff" alt="Gabriel Coelho" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&width=560&center=true&vCenter=true&lines=Backend+e+Full+Stack+Developer;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Python;APIs%2C+automa%C3%A7%C3%A3o+e+deploy+em+produ%C3%A7%C3%A3o" alt="Backend e Full Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&width=560&center=true&vCenter=true&lines=Backend+e+Full+Stack+Developer;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Python;APIs%2C+automa%C3%A7%C3%A3o+e+CI%2FCD+com+Docker" alt="Backend e Full Stack Developer" />
 
 <br />
 
@@ -18,10 +18,10 @@ Estudante de Análise e Desenvolvimento de Sistemas (Unilasalle)
 
 ## 👨‍💻 Sobre mim
 
-Construo aplicações web e automações com **JavaScript/TypeScript** e **Python**. Hoje atuo em implantação e suporte técnico e estou direcionando minha carreira para **desenvolvimento backend e full stack**.
+Construo aplicações web e automações com **JavaScript/TypeScript** e **Python**. Hoje atuo com implantação de sistemas e infraestrutura diretamente para clientes e estou direcionando minha carreira para **desenvolvimento backend e full stack**.
 
-- 🎯 Foco atual: APIs em Node.js, front-end em React e deploy em produção
-- 🤖 Uso IA (Claude) no fluxo de desenvolvimento e na automação de processos
+- 🎯 Foco atual: APIs em Node.js, front-end em React e entrega contínua (CI/CD) com Docker
+- 🤖 Agentes de IA e integração de LLMs (Gemini) para automatizar processos
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Unilasalle
 
 ---
